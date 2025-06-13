@@ -91,8 +91,11 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-31" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-32" target="Lg832oHAAEWEkgvGCh4V-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-32" value="采购员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-34" target="Lg832oHAAEWEkgvGCh4V-38">
           <mxGeometry relative="1" as="geometry" />
@@ -155,6 +158,9 @@
               <mxPoint x="710" y="194" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
