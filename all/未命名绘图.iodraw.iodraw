@@ -147,8 +147,11 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-53" target="Lg832oHAAEWEkgvGCh4V-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-53" target="Lg832oHAAEWEkgvGCh4V-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-53" value="退货管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-55" value="报表中心" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314" y="530" width="120" height="80" as="geometry" />
