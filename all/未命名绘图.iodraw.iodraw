@@ -288,6 +288,12 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-91" value="库存管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" y="980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-92" target="Lg832oHAAEWEkgvGCh4V-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-92" target="Lg832oHAAEWEkgvGCh4V-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-92" value="报表中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1220" y="980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -313,7 +319,7 @@
           <mxGeometry x="-300" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-126" value="销售退货处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="923" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-127" value="采购退货处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1092" y="1230" width="120" height="60" as="geometry" />
