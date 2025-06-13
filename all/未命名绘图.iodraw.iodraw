@@ -207,6 +207,12 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-84" target="Lg832oHAAEWEkgvGCh4V-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-84" target="Lg832oHAAEWEkgvGCh4V-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-84" target="Lg832oHAAEWEkgvGCh4V-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-84" value="系统主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="700" width="370" height="100" as="geometry" />
         </mxCell>
