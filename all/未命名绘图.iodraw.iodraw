@@ -223,8 +223,7 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-84" target="Lg832oHAAEWEkgvGCh4V-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665" y="690" />
-              <mxPoint x="1280" y="690" />
+              <mxPoint x="1280" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -276,7 +275,7 @@
           <mxGeometry x="453" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-112" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
