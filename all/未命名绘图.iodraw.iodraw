@@ -297,8 +297,8 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-92" target="Lg832oHAAEWEkgvGCh4V-130">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1280" y="1090" />
-              <mxPoint x="1550" y="1090" />
+              <mxPoint x="1280" y="1130" />
+              <mxPoint x="1550" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -336,7 +336,7 @@
           <mxGeometry x="1300" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-130" value="日/月销售汇总" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1490" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-133" value="滞销/过期商品分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1500" y="1050" width="120" height="60" as="geometry" />
