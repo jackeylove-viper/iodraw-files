@@ -58,9 +58,6 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-13" value="库存数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="384" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lg832oHAAEWEkgvGCh4V-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="424" y="570" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-15" value="查看报表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="444" y="480" width="60" height="30" as="geometry" />
         </mxCell>
@@ -70,7 +67,7 @@
             <mxPoint x="90" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg832oHAAEWEkgvGCh4V-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-21" value="采购订单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="505" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-1" target="Lg832oHAAEWEkgvGCh4V-23">
