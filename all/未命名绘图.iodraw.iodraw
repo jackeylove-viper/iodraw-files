@@ -247,6 +247,9 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-87" target="Lg832oHAAEWEkgvGCh4V-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-87" target="Lg832oHAAEWEkgvGCh4V-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-87" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -284,7 +287,7 @@
           <mxGeometry x="680" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-240" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="-300" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
