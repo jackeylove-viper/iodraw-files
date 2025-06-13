@@ -94,9 +94,6 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-32" value="采购员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="554" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lg832oHAAEWEkgvGCh4V-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-34" target="Lg832oHAAEWEkgvGCh4V-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -140,12 +137,6 @@
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;提供商品信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="180" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Lg832oHAAEWEkgvGCh4V-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="140" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Lg832oHAAEWEkgvGCh4V-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="328" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-53" target="Lg832oHAAEWEkgvGCh4V-34">
           <mxGeometry relative="1" as="geometry" />
