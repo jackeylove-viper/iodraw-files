@@ -16,7 +16,7 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-2" target="Lg832oHAAEWEkgvGCh4V-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lg832oHAAEWEkgvGCh4V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-2" target="Lg832oHAAEWEkgvGCh4V-3">
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-21" target="Lg832oHAAEWEkgvGCh4V-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-2" value="采购员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -61,7 +61,16 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="480" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lg832oHAAEWEkgvGCh4V-2" target="Lg832oHAAEWEkgvGCh4V-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="420" as="sourcePoint" />
+            <mxPoint x="120" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
