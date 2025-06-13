@@ -88,7 +88,7 @@
         <mxCell id="Lg832oHAAEWEkgvGCh4V-31" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lg832oHAAEWEkgvGCh4V-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Lg832oHAAEWEkgvGCh4V-32" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="434" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
