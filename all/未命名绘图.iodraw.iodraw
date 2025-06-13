@@ -71,7 +71,7 @@
           <mxGeometry x="60" y="505" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-23" value="库存管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="338" y="435" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-25" value="销售订单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="338" y="390" width="60" height="30" as="geometry" />
