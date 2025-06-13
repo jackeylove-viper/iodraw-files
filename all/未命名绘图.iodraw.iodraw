@@ -249,7 +249,7 @@
           <mxGeometry x="1100" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-91" value="库存管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lg832oHAAEWEkgvGCh4V-92" value="报表中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1220" y="980" width="120" height="60" as="geometry" />
